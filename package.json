@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/ic3web/node#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "mongoose": "^5.9.15",
+    "mongoose-paginate": "^5.0.3",
     "require-dir": "^1.2.0",
     "xpress": "^2.4.6"
   },
